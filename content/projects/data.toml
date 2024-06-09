@@ -1,0 +1,73 @@
+
+[[project]]
+name = "VTAPP - Event Platform"
+desc = """VTAPP is a user-friendly web platform developed for the technical fest at our college, designed to deliver a dynamic and efficient user experience using Next.js, Tailwind CSS, MySQL. The platform features an integrated ticketing system with QR scanning capabilities, ensuring streamlined event entry and management.
+
+The platform was used for VTAPP Tech fest in 2024, and was a huge success. The platform served **5k+ users** and facilitated **50k+ tickets** across **80+ events**. 
+"""
+tags = ["typescript", "nextjs", "tailwind", "planetscale", "cloudflare"]
+img = "https://i.imgur.com/yjKZmxb.png"
+links = [
+    { name = "GitHub", url = "https://github.com/VTAPP2022/vtapp" },
+    { name = "Demo", url = "https://vtapp.pages.dev/" },
+]
+
+[[project]]
+name = "Hostel Outing Management System"
+desc = """Developed a website to verify hostel outing passes for students in our university. The website can take input from a hardware QR-code scanner and verify the outing pass in real-time. 
+
+The website was built using Next.js, Tailwind CSS, and Oracle. This project was showcased at our university's Engineering Clinics Expo and **won third prize out of 200+ projects**.
+"""
+tags = ["typescript", "nextjs", "tailwind", "oracle", "typeorm", "trpc"]
+img = "https://i.imgur.com/HUa2ClP.jpeg"
+links = []
+
+[[project]]
+name = "TripWise - Plan your next trip with AI 🚀"
+desc = """Website built with Next.js, Tailwind CSS and utilises OpenAI's GPT-3 API and TripAdvisor API to generate a detailed itinerary for your next trip. 
+
+The website was built as a part of a hackathon and won the first prize."""
+tags = ["nextjs", "javascript", "gpt-3", "vercel"]
+img = "https://i.imgur.com/AbFWGzg.png"
+links = [
+    { name = "GitHub", url = "https://github.com/akhiltulluri/tripwise?tab=readme-ov-file" },
+    { name = "Demo", url = "https://tripwise-project.vercel.app" },
+]
+
+[[project]]
+name = "XPOSE - Discord Bot"
+desc = """XPOSE Bot is a discord bot based on clash of clans and is designed specifically to help the gaming tournaments encourage fair play. The bot helps you scan a clan/player (or) even an entire roster to see if there are any players banned by the tournament before. 
+
+The bot also provides player's clan history (using Clash of Clan's API) and checks if any clan banned by the league is visited by the player in the past, providing tournament organisers info about how many days the player stayed in the clan, what role they played when they visited etc.
+
+The discord bot was used by **80k+ users across across 300+ gaming communities**.
+"""
+tags = [
+    "python",
+    "discord.py",
+    "google-sheets-api",
+    "clash-of-clans-api",
+    "aws-ec2",
+]
+img = "https://i.imgur.com/xDWGsug.png"
+links = [{ name = "GitHub", url = "https://github.com/akhiltulluri/xpose-bot" }]
+
+[[project]]
+name = "Quado - Discord Bot"
+desc = """Quado is a discord bot that integrates with Atlassian's statuspage API to provide real-time updates from the status page of any service. The bot can be used to subscribe to updates from a specific service and get notified in your discord server whenever there is an update.
+
+The discord bot was commissioned by someone who wanted to send status updates from their company's status page to their discord server.
+"""
+tags = ["python", "discord.py", "statuspage-api", "digitalocean"]
+img = "https://i.imgur.com/SZSDL9A.png"
+links = []
+
+[[project]]
+name = "GST Excel File Manipulator"
+desc = """A python GUI for generating consolidated report from month-wise details of input tax credit, credit notes and debit notes.
+
+I built this project long ago to help my dad with his work at office -- saving him time by automating 2 days of manual work to be done within seconds.
+"""
+tags = ["python", "openpyxl", "PyQt5"]
+img = "https://i.imgur.com/aBru71h.png"
+links = [{ name = "GitHub", url = "https://github.com/akhiltulluri/excel_gst" }]

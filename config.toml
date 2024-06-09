@@ -6,7 +6,7 @@
 #=========================================================================================
 
 base_url = "https://tulluri.me"                           # Domain name of your website
-title = "Akhilesh Tulluri"                                # Title of your website
+title = "Akhil Tulluri"                                   # Title of your website
 description = "Software Engineer"                         # Description of your website
 default_language = "en"
 theme = "serene"
@@ -41,14 +41,15 @@ anchors = "on"
 
 [extra]
 
-name = "xxxx" # Your name
-id = "xxxx" # Your id / username / handle
-bio = "xxxx" # Your bio
+name = "Akhil Tulluri" # Your name
+id = "akhiltulluri" # Your id / username / handle
+bio = "Software Engineer 👨‍💻 - MS CS @ Northeastern 🎓" # Your bio
 avatar = "img/avatar.webp" # Your avatar
 links = [ # Your links
-    { name = "GitHub", icon = "github", url = "https://github.com/<your-username>" },
-    { name = "Twitter", icon = "twitter", url = "https://twitter.com/<your-username>" },
-    { name = "Email", icon = "email", url = "mailto:<your-email-address>" },
+    { name = "GitHub", icon = "github", url = "https://github.com/akhiltulluri" },
+    { name = "Twitter", icon = "twitter", url = "https://twitter.com/akhilcodes" },
+    { name = "LinkedIn", icon = "linkedin", url = "https://linkedin.com/in/akhiltulluri" },
+    { name = "Email", icon = "email", url = "mailto:akhil@tulluri.me" },
 ]
 
 homepage_layout = "about" # "about" | "list" | "recent"
@@ -86,8 +87,8 @@ outdate_alert_days = 120                                       # How many days w
 outdate_alert_text_before = "This article was last updated "
 outdate_alert_text_after = " days ago and may be out of date."
 
-footer_copyright = "© 2023 <your-name>"
-footer_credits = true                   # Whether to show "powered by zola and serene" in footer
+footer_copyright = "© 2024 Akhil Tulluri"
+footer_credits = true                     # Whether to show "powered by zola and serene" in footer
 
 not_found_title = "404"
 not_found_error_text = "Not Found"
