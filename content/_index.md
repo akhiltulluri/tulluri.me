@@ -9,7 +9,7 @@ mermaid = true
 # My Journey in Tech
 
 {% detail(title="TL;DR") %}
-**At Present**: Going to pursue my Masters at [Northeastern University, Boston](https://northeastern.edu) starting Fall 2024.
+**At Present**: Going to pursue my Master's at [Northeastern University, Boston](https://northeastern.edu) starting Fall 2024. Also going to be working as a Teaching Assistant for [CS 4500 Software Development](https://felleisen.org/matthias/4500-f24/index.html) course under [Dr. Matthias Felleisen](https://en.wikipedia.org/wiki/Matthias_Felleisen) and [Dr. Benjamin Lerner](https://www.khoury.northeastern.edu/people/benjamin-lerner/).
 
 Started coding with python in grade 11 (thanks to discord bots!), pursued Bachelors at [VIT-AP](https://vitap.ac.in), interned at multiple startups ([eFuse](https://efuse.gg), [DigitalFortress](https://digitalfortress.in), [Jarobe Labs](https://jarobe.dev)) as _backend/full stack engineer_, interested in _distributed systems, databases and serverless computing_.
 {% end %}
@@ -26,7 +26,7 @@ Later, I joined [VIT Andhra Pradesh](https://vitap.ac.in) for my undergrad in Co
 
 Although I was initially self-taught during grades 11 and 12, pursuing a bachelor's degree helped me learn subjects I wouldn't have otherwise. Now, I'm interested in focusing more on specific parts of CS, particularly _distributed systems, databases, and serverless computing_.
 
-To explore those specific interests and expand my skill set, I'll be pursuing my Masters in Computer Science at [Northeastern University, Boston](https://northeastern.edu) starting Fall 2024.
+To explore those specific interests and expand my skill set, I'll be pursuing my Master's in Computer Science at [Northeastern University, Boston](https://northeastern.edu) starting Fall 2024. I'm excited to start my Master's journey, and I'm grateful to have been offered a Graduate Teaching Assistant position for [CS 4500 Software Development](https://felleisen.org/matthias/4500-f24/index.html) course under [Dr. Matthias Felleisen](https://en.wikipedia.org/wiki/Matthias_Felleisen) and [Dr. Benjamin Lerner](https://www.khoury.northeastern.edu/people/benjamin-lerner/).
 
 <!-- ## Timeline
 {% mermaid() %}
