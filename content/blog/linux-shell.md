@@ -4,11 +4,12 @@ date = 2024-11-10
 description = "Behind the scenes of pipe operator (`|`) and redirects (`<`, `>`) on linux shell."
 [taxonomies]
 categories = ["linux/unix", "c"]
-tags = ["serene", "theme"]
+tags = ["linux", "c"]
 [extra]
 lang = "en"
 toc = true
 +++
+Behind the scenes of pipe operator (`|`) and redirects (`<`, `>`) on linux shell.
 
 ### Intro
 
