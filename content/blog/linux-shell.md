@@ -1,5 +1,5 @@
 +++
-title = "How does `ls /var/log | grep ".log" | sort > log_files.txt` work?"
+title = "How does `ls /var/log | grep '.log' | sort > log_files.txt` work?"
 date = 2024-11-10
 description = "Behind the scenes of pipe operator (`|`) and redirects (`<`, `>`) on linux shell."
 [taxonomies]
